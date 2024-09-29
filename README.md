@@ -11,7 +11,7 @@
 
 ---
 
-<!-- <h2 align="center">🌸 Welcome to My Otaku Coder Realm! 🌸</h2>
+<h2 align="center">🌸 Welcome to My Otaku Coder Realm! 🌸</h2>
 
 <p align="center">
   <strong>Code Ninja 🥷 | Anime Sage 🧙‍♂️ | Open Source Hero 🦸‍♂️</strong>
@@ -20,15 +20,15 @@
 <p align="center">
   <a href="https://linkedin.com/in/hantbk"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://myanimelist.net/profile/hantbk"><img src="https://img.shields.io/badge/-MyAnimeList-2E51A2?style=flat-square&logo=myanimelist&logoColor=white" alt="MyAnimeList"></a>
-  <a href="https://twitter.com/hantbka"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <!-- <a href="https://twitter.com/hantbka"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://facebook.com/hantbka"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://instagram.com/hantbka"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
-  <a href="https://www.youtube.com/@hantbk"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.youtube.com/@hantbk"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> -->
 </p>
 
 ---
 
-### 🎭 My Backstory
+<!-- ### 🎭 My Backstory
 
 Konnichiwa, fellow otakus and code enthusiasts! I'm Ha Nguyen, a passionate developer on a quest to merge the worlds of anime and technology. When I'm not channeling my inner Levi to clean up code, you can find me exploring digital realms or binging the latest seasonal anime.
 
@@ -70,12 +70,14 @@ Konnichiwa, fellow otakus and code enthusiasts! I'm Ha Nguyen, a passionate deve
 - [ ] Launch an anime-inspired tech blog
 - [ ] Cosplay at a major tech conference
 
----
+--- -->
 
 <p align="center">
   <em>"I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean... is the Pirate King!" - Monkey D. Luffy</em>
 </p>
 
 <p align="center">
+  <strong>
   Thanks for visiting my profile! May your code be bug-free and your watchlist ever-growing! 🍜
-</p> -->
+  </strong>
+</p>
