@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://open.spotify.com/playlist/0FJIJ7X92PUdowwvZMD0ls?si=ISNvufp4S1KkU-Gy554sBw">
-    <img src="./hehe.png" alt="Wibu Freedom" width="300">
+    <img src="./hehe.png" alt="Wings of Freedom" width="300">
   </a>
 </p>
 
@@ -74,9 +74,27 @@ Konnichiwa, fellow otakus and code enthusiasts! I'm Ha Nguyen, a passionate deve
 
 --- -->
 
-<p align="center">
-  <em>"I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean... is the Pirate King!" - Monkey D. Luffy</em>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Wings%20of%20Freedom-2b2d42?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAEkSURBVHjarJK9SgNBFIW/mb2bGIiF2FkqFoKVIOgD+BZ2PkIeQBAsLX0KCx/Bwk4UGxHExkImkGTv/ljsJrubRBAHLsPAOYfvnJkRVWWIFQwUvvf5DJzE+Sjzkf7hbVflSYGJqk5FpAQsARNgDlypahP+iajqoYhcAKfALfCkqq8i8gq0InKlqk1U9UpELoEXVb1R1XsRaYCZiNTAg4hcW2vPrbUzEWmstXfGGNfv9wPQAZ/AuyRVzQ3QiUgJtJVz7r0oigmAcy4HEJHF76iqLpIkGa/MV/q+X+Z5/pBl2TjLsqKu6/EgMAxDORqN8jRNx2VZjgGcc26VrLUsl0t83wfAGLO2XGstWZbhvef/WGvX/rD6mQFfvwMAzHuj4otM1EEAAAAASUVORK5CYII=" alt="Wings of Freedom">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong><em>"If you win, you live.<br>
+        If you lose, you die.<br>
+        If you don't fight, you can't win!"</em></strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/static/v1?label=&message=Eren%20Yeager&color=8B0000&style=for-the-badge" alt="Eren Yeager">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <strong>
