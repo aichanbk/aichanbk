@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./hehe.png" alt="Wibu Freedom" width="300">
+  <a href="https://open.spotify.com/playlist/0FJIJ7X92PUdowwvZMD0ls?si=ISNvufp4S1KkU-Gy554sBw" target="_blank">
+    <img src="./hehe.png" alt="Wibu Freedom" width="300">
+  </a>
 </p>
 
 <h1 align="center"><em><strong>心臓を捧げよ！</strong></em></h1>
