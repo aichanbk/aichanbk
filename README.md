@@ -75,25 +75,13 @@ Konnichiwa, fellow otakus and code enthusiasts! I'm Ha Nguyen, a passionate deve
 --- -->
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Wings%20of%20Freedom-2b2d42?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAEkSURBVHjarJK9SgNBFIW/mb2bGIiF2FkqFoKVIOgD+BZ2PkIeQBAsLX0KCx/Bwk4UGxHExkImkGTv/ljsJrubRBAHLsPAOYfvnJkRVWWIFQwUvvf5DJzE+Sjzkf7hbVflSYGJqk5FpAQsARNgDlypahP+iajqoYhcAKfALfCkqq8i8gq0InKlqk1U9UpELoEXVb1R1XsRaYCZiNTAg4hcW2vPrbUzEWmstXfGGNfv9wPQAZ/AuyRVzQ3QiUgJtJVz7r0oigmAcy4HEJHF76iqLpIkGa/MV/q+X+Z5/pBl2TjLsqKu6/EgMAxDORqN8jRNx2VZjgGcc26VrLUsl0t83wfAGLO2XGstWZbhvef/WGvX/rD6mQFfvwMAzHuj4otM1EEAAAAASUVORK5CYII=" alt="Wings of Freedom">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <strong><em>"If you win, you live.<br>
-        If you lose, you die.<br>
-        If you don't fight, you can't win!"</em></strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/static/v1?label=&message=Eren%20Yeager&color=8B0000&style=for-the-badge" alt="Eren Yeager">
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/-Wings%20of%20Freedom-2b2d42?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAEkSURBVHjarJK9SgNBFIW/mb2bGIiF2FkqFoKVIOgD+BZ2PkIeQBAsLX0KCx/Bwk4UGxHExkImkGTv/ljsJrubRBAHLsPAOYfvnJkRVWWIFQwUvvf5DJzE+Sjzkf7hbVflSYGJqk5FpAQsARNgDlypahP+iajqoYhcAKfALfCkqq8i8gq0InKlqk1U9UpELoEXVb1R1XsRaYCZiNTAg4hcW2vPrbUzEWmstXfGGNfv9wPQAZ/AuyRVzQ3QiUgJtJVz7r0oigmAcy4HEJHF76iqLpIkGa/MV/q+X+Z5/pBl2TjLsqKu6/EgMAxDORqN8jRNx2VZjgGcc26VrLUsl0t83wfAGLO2XGstWZbhvef/WGvX/rD6mQFfvwMAzHuj4otM1EEAAAAASUVORK5CYII=" alt="Wings of Freedom">
+
+  <p><strong><em>"If you win, you live.<br>
+  If you lose, you die.<br>
+  If you don't fight, you can't win!"</em></strong></p>
+
+  <img src="https://img.shields.io/static/v1?label=&message=Eren%20Yeager&color=8B0000&style=for-the-badge" alt="Eren Yeager">
 </div>
 
 <p align="center">
