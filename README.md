@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://open.spotify.com/playlist/0FJIJ7X92PUdowwvZMD0ls?si=ISNvufp4S1KkU-Gy554sBw" target="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/playlist/0FJIJ7X92PUdowwvZMD0ls?si=ISNvufp4S1KkU-Gy554sBw">
     <img src="./hehe.png" alt="Wibu Freedom" width="300">
   </a>
 </p>
