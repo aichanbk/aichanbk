@@ -6,12 +6,12 @@
 
 <h1 align="center"><em><strong>心臓を捧げよ！</strong></em></h1>
 
-<p align="center">
+<!-- <p align="center">
   <em>Shinzou wo Sasageyo!</em><br>
   <strong>Dedicate your hearts!</strong>
 </p>
 
-<!-- ---
+---
 
 <h2 align="center">🌸 Welcome to My Otaku Coder Realm! 🌸</h2>
 
@@ -69,7 +69,7 @@ Konnichiwa, fellow otakus and code enthusiasts! I'm Ha Nguyen, a passionate deve
 
 - [ ] Contribute to anime-related open-source projects
 - [ ] Master the art of WebGL for epic anime-style web experiences
-- [ ] Launch an anime-inspired tech blog -->
+- [ ] Launch an anime-inspired tech blog
 
 ---
 
@@ -87,4 +87,4 @@ Konnichiwa, fellow otakus and code enthusiasts! I'm Ha Nguyen, a passionate deve
   <strong>
   Thanks for visiting my profile! May your code be bug-free and your watchlist ever-growing! 🍜
   </strong>
-</p>
+</p> -->
