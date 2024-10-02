@@ -6,14 +6,14 @@
 
 <h1 align="center"><em><strong>心臓を捧げよ！</strong></em></h1>
 
-<!-- <p align="center">
+<p align="center">
   <em>Shinzou wo Sasageyo!</em><br>
   <strong>Dedicate your hearts!</strong>
 </p>
 
 ---
 
-<h2 align="center">🌸 Welcome to My Otaku Coder Realm! 🌸</h2>
+<!-- <h2 align="center">🌸 Welcome to My Otaku Coder Realm! 🌸</h2>
 
 <p align="center">
   <strong>Code Ninja 🥷 | Anime Sage 🧙‍♂️ | Open Source Hero 🦸‍♂️</strong>
