@@ -61,8 +61,11 @@ Konnichiwa, fellow otakus and code enthusiasts! I'm Ha Nguyen, a passionate deve
 
 ### 📈 Battle Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hantbk&show_icons=true&theme=synthwave" alt="GitHub Stats">
+<p align="left">
+  <a href="https://github.com/hantbk">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hantbk&show_icons=true&theme=synthwave" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hantbk&layout=compact&theme=synthwave" alt="Top Languages">
+  </a>
 </p>
 
 ### 🎯 Season 2025 Goals
