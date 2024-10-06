@@ -6,14 +6,14 @@
 
 <h1 align="center"><em><strong>心臓を捧げよ！</strong></em></h1>
 
-<p align="center">
+<!-- <p align="center">
   <em>Shinzou wo Sasageyo!</em><br>
   <strong>Dedicate your hearts!</strong>
 </p>
 
 ---
 
-<!-- <h2 align="center">🌸 Welcome to My Otaku Coder Realm! 🌸</h2>
+ <h2 align="center">🌸 Welcome to My Otaku Coder Realm! 🌸</h2>
 
 <p align="center">
   <strong>Code Ninja 🥷 | Anime Sage 🧙‍♂️ | Open Source Hero 🦸‍♂️</strong>
@@ -74,7 +74,7 @@ Konnichiwa, fellow otakus and code enthusiasts! I'm Ha Nguyen, a passionate deve
 - [ ] Master the art of WebGL for epic anime-style web experiences
 - [ ] Launch an anime-inspired tech blog
 
---- -->
+--- 
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Wings%20of%20Freedom-2b2d42?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAEkSURBVHjarJK9SgNBFIW/mb2bGIiF2FkqFoKVIOgD+BZ2PkIeQBAsLX0KCx/Bwk4UGxHExkImkGTv/ljsJrubRBAHLsPAOYfvnJkRVWWIFQwUvvf5DJzE+Sjzkf7hbVflSYGJqk5FpAQsARNgDlypahP+iajqoYhcAKfALfCkqq8i8gq0InKlqk1U9UpELoEXVb1R1XsRaYCZiNTAg4hcW2vPrbUzEWmstXfGGNfv9wPQAZ/AuyRVzQ3QiUgJtJVz7r0oigmAcy4HEJHF76iqLpIkGa/MV/q+X+Z5/pBl2TjLsqKu6/EgMAxDORqN8jRNx2VZjgGcc26VrLUsl0t83wfAGLO2XGstWZbhvef/WGvX/rD6mQFfvwMAzHuj4otM1EEAAAAASUVORK5CYII=" alt="Wings of Freedom">
@@ -86,7 +86,7 @@ Konnichiwa, fellow otakus and code enthusiasts! I'm Ha Nguyen, a passionate deve
   <img src="https://img.shields.io/static/v1?label=&message=Eren%20Yeager&color=8B0000&style=for-the-badge" alt="Eren Yeager">
 </div>
 
-<!-- <p align="center">
+ <p align="center">
   <strong>
   Thanks for visiting my profile! May your code be bug-free and your watchlist ever-growing! 🍜
   </strong>
