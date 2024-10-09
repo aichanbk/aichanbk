@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://open.spotify.com/playlist/0FJIJ7X92PUdowwvZMD0ls?si=ISNvufp4S1KkU-Gy554sBw">
-    <img src="./hehe.png" alt="Wings of Freedom" width="300">
+    <img src="./hi.png" alt="Titan say hi" width="300">
   </a>
 </p>
 
