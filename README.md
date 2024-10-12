@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./img/hertaa_github.gif" alt="Herta GIF" width="200">
-  <h1>✨ Welcome to herta kuru~ <img src="./img/favicon.png" style="height: 1.5em"> ✨</h1>
+  <h1>✨ Welcome to herta kuru~ <img src="./img/favicon.png" style="height: 40px"> ✨</h1>
   <h2>The <del>annoying</del> cutest genius Honkai: Star Rail character</h2>
   <p><em>"Wah! Coding is just like unraveling the mysteries of the universe! Kuru kuru~!"</em></p>
 </div>
