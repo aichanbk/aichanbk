@@ -1,0 +1,4 @@
+### Hi there 👋. I'm Ha Nguyen , and this is a very professional profile
+
+| ![1](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFwYjNvcGtkdW00NnUxMmZ6Zmk0cmpuN2VpMTdlejJsaWN3cHh2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TTedQxhzd5T4A/giphy.gif) | ![2](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG40bXNpOWd0bTJhYWtobmVuM3B3OXZ1dXlvOHc1aGRiNXNpbzg0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13SYXjPQi8U5wI/giphy.gif) | ![3](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJzbWJzemFtemNyMXduMWFoZ25wMzNhN3ptOWF0aHVlZ3VtMm1oYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5dyi5lnOgxeQU/giphy.gif) |
+| --- | --- | --- |
